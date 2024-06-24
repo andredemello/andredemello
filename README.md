@@ -6,4 +6,6 @@
 - utilizo esse espaço para compartilhar meus projetos que estou desenvolvendo
 - sou atleta de atletismo
 
-  ### VOCE PODE ENTRAR EM CONTATO COMIGO ATRAVES DO :
+  ### voce pode entrar em contato comigo atraves do 📫
+  andremello2119@gmail.com
+@mello_andre21
