@@ -1,5 +1,5 @@
 ## benvindo ao meu perfil 🐱
- - Meu nome é: Andre de Melo eleutério  
+ - Meu nome é: **Andre de Melo eleutério**  
 
 - sou estudante na [alura](https://www.alura.com.br/)
 - estou aprendendo um pouco de JavaScript
